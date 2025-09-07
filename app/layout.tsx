@@ -8,35 +8,35 @@
 // const inter = Inter({ subsets: ["latin"] })
 
 // export const metadata: Metadata = {
-//   title: "Tecsaro Technologies | AI Chatbots, SaaS Development & MVP Solutions",
+//   title: "Tecsaro Digital | AI Chatbots, SaaS Development & MVP Solutions",
 //   description:
 //     "Leading AI chatbot development, SaaS platform creation, and MVP solutions for startups. Expert team specializing in intelligent automation, custom AI tools, and rapid prototyping in Hyderabad, India.",
 //   keywords:
 //     "AI chatbots, SaaS development, MVP development, artificial intelligence, chatbot solutions, startup technology, automation tools, Hyderabad tech company, AI agents, custom software development",
-//   authors: [{ name: "Tecsaro Technologies" }],
-//   creator: "Tecsaro Technologies",
-//   publisher: "Tecsaro Technologies",
+//   authors: [{ name: "Tecsaro Digital" }],
+//   creator: "Tecsaro Digital",
+//   publisher: "Tecsaro Digital",
 //   robots: "index, follow",
 //   openGraph: {
 //     type: "website",
 //     locale: "en_US",
 //     url: "https://tecsaro.com",
-//     title: "Tecsaro Technologies | AI Chatbots & SaaS Solutions",
+//     title: "Tecsaro Digital | AI Chatbots & SaaS Solutions",
 //     description:
 //       "Transform your business with cutting-edge AI chatbots, SaaS platforms, and MVP development. Expert team in Hyderabad specializing in intelligent automation solutions.",
-//     siteName: "Tecsaro Technologies",
+//     siteName: "Tecsaro Digital",
 //     images: [
 //       {
 //         url: "/placeholder.svg?height=630&width=1200",
 //         width: 1200,
 //         height: 630,
-//         alt: "Tecsaro Technologies - AI Chatbots and SaaS Solutions",
+//         alt: "Tecsaro Digital - AI Chatbots and SaaS Solutions",
 //       },
 //     ],
 //   },
 //   twitter: {
 //     card: "summary_large_image",
-//     title: "Tecsaro Technologies | AI Chatbots & SaaS Solutions",
+//     title: "Tecsaro Digital | AI Chatbots & SaaS Solutions",
 //     description: "Transform your business with cutting-edge AI chatbots, SaaS platforms, and MVP development.",
 //     images: ["/placeholder.svg?height=630&width=1200"],
 //   },
@@ -64,7 +64,7 @@
 //             __html: JSON.stringify({
 //               "@context": "https://schema.org",
 //               "@type": "Organization",
-//               name: "Tecsaro Technologies",
+//               name: "Tecsaro Digital",
 //               description: "Leading AI chatbot development, SaaS platform creation, and MVP solutions for startups",
 //               url: "https://tecsaro.com",
 //               logo: "https://tecsaro.com/logo.png",
@@ -110,35 +110,35 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Tecsaro Technologies | AI Chatbots, SaaS Development & MVP Solutions",
+  title: "Tecsaro Digital | AI Chatbots, SaaS Development & MVP Solutions",
   description:
     "Leading AI chatbot development, SaaS platform creation, and MVP solutions for startups. Expert team specializing in intelligent automation, custom AI tools, and rapid prototyping in Hyderabad, India.",
   keywords:
     "AI chatbots, SaaS development, MVP development, artificial intelligence, chatbot solutions, startup technology, automation tools, Hyderabad tech company, AI agents, custom software development",
-  authors: [{ name: "Tecsaro Technologies" }],
-  creator: "Tecsaro Technologies",
-  publisher: "Tecsaro Technologies",
+  authors: [{ name: "Tecsaro Digital" }],
+  creator: "Tecsaro Digital",
+  publisher: "Tecsaro Digital",
   robots: "index, follow",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://tecsaro.com",
-    title: "Tecsaro Technologies | AI Chatbots & SaaS Solutions",
+    title: "Tecsaro Digital | AI Chatbots & SaaS Solutions",
     description:
       "Transform your business with cutting-edge AI chatbots, SaaS platforms, and MVP development. Expert team in Hyderabad specializing in intelligent automation solutions.",
-    siteName: "Tecsaro Technologies",
+    siteName: "Tecsaro Digital",
     images: [
       {
         url: "/placeholder.svg?height=630&width=1200",
         width: 1200,
         height: 630,
-        alt: "Tecsaro Technologies - AI Chatbots and SaaS Solutions",
+        alt: "Tecsaro Digital - AI Chatbots and SaaS Solutions",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Tecsaro Technologies | AI Chatbots & SaaS Solutions",
+    title: "Tecsaro Digital | AI Chatbots & SaaS Solutions",
     description:
       "Transform your business with cutting-edge AI chatbots, SaaS platforms, and MVP development.",
     images: ["/placeholder.svg?height=630&width=1200"],
@@ -167,7 +167,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              name: "Tecsaro Technologies",
+              name: "Tecsaro Digital",
               description:
                 "Leading AI chatbot development, SaaS platform creation, and MVP solutions for startups",
               url: "https://tecsaro.com",
@@ -185,11 +185,11 @@ export default function RootLayout({
                 addressCountry: "India",
               },
               sameAs: [
-                "https://www.linkedin.com/company/tecsaro-technologies/",
+                "https://www.linkedin.com/company/tecsaro-digital/",
                 "https://x.com/tecsaro",
                 "https://www.facebook.com/share/1C9m6DpxvE/",
-                "https://www.instagram.com/tecsaro_technologies/",
-                "https://www.youtube.com/@tecsaro_technologies",
+                "https://www.instagram.com/tecsaro_digital",
+                "https://www.youtube.com/@tecsaro_digital",
               ],
             }),
           }}

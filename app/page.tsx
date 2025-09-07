@@ -46,7 +46,7 @@ export default function HomePage() {
             <span className="text-accent-blue block">With AI Innovation</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
-            Tecsaro Technologies specializes in cutting-edge AI chatbots, intelligent automation, SaaS platforms, and
+            Tecsaro Digital specializes in cutting-edge AI chatbots, intelligent automation, SaaS platforms, and
             MVP development for startups and founders ready to transform their ideas into reality.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">

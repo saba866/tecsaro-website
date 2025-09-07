@@ -126,7 +126,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mt-6">
           <div>
-            © {new Date().getFullYear()} Tecsaro Technologies. All rights reserved.
+            © {new Date().getFullYear()} Tecsaro Digital. All rights reserved.
           </div>
 
           <div className="md:col-start-3 flex justify-end">

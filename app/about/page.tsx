@@ -6,9 +6,9 @@
 //       {/* Hero Section */}
 //       <section className="py-20 hero-gradient">
 //         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-//           <h1 className="text-4xl md:text-6xl font-bold mb-6">About Tecsaro Technologies</h1>
+//           <h1 className="text-4xl md:text-6xl font-bold mb-6">About Tecsaro Digital</h1>
 //           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-//            Tecsaro Technologies is a forward-thinking AI & SaaS solutions agency focused on building smart, scalable, and impactful digital products. We help startups, entrepreneurs, and businesses automate workflows, enhance user experiences, and launch powerful products — from MVPs to full-scale SaaS platforms.
+//            Tecsaro Digital is a forward-thinking AI & SaaS solutions agency focused on building smart, scalable, and impactful digital products. We help startups, entrepreneurs, and businesses automate workflows, enhance user experiences, and launch powerful products — from MVPs to full-scale SaaS platforms.
 
 // We’re also building our own in-house products to solve real-world problems using cutting-edge technology — starting with education, automation, and healthcare.
 //           </p>
@@ -137,7 +137,7 @@
 //       <section className="py-20 bg-card-bg">
 //         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 //           <div className="text-center mb-16">
-//             <h2 className="text-3xl md:text-5xl font-bold mb-4">Why Choose Tecsaro Technologies</h2>
+//             <h2 className="text-3xl md:text-5xl font-bold mb-4">Why Choose Tecsaro Digital</h2>
 //             <p className="text-xl text-gray-400">What sets us apart in the AI and SaaS development space</p>
 //           </div>
 
@@ -194,7 +194,7 @@
 //         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
 //           <h2 className="text-3xl md:text-5xl font-bold mb-4">Ready to Build the Future?</h2>
 //           <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
-//             Let's discuss your project and see how Tecsaro Technologies can help you build innovative AI solutions and
+//             Let's discuss your project and see how Tecsaro Digital can help you build innovative AI solutions and
 //             SaaS platforms.
 //           </p>
 //           <a
@@ -226,10 +226,10 @@ export default function AboutPage() {
       <section className="py-20 hero-gradient text-center">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 text-wrap balance">
-            About Tecsaro Technologies
+            About Tecsaro Digital
           </h1>
           <p className="text-lg sm:text-xl text-gray-300 max-w-3xl mx-auto">
-            Tecsaro Technologies is a forward-thinking AI & SaaS solutions agency focused on building smart, scalable,
+            Tecsaro Digital is a forward-thinking AI & SaaS solutions agency focused on building smart, scalable,
             and impactful digital products. We help startups, entrepreneurs, and businesses automate workflows, enhance
             user experiences, and launch powerful products — from MVPs to full-scale SaaS platforms. We’re also building
             our own in-house products to solve real-world problems using cutting-edge technology — starting with
@@ -350,7 +350,7 @@ export default function AboutPage() {
       {/* Why Choose Tecsaro */}
       <section className="py-20 bg-card-bg">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl md:text-5xl font-bold mb-4">Why Choose Tecsaro Technologies</h2>
+          <h2 className="text-3xl md:text-5xl font-bold mb-4">Why Choose Tecsaro Digital</h2>
           <p className="text-xl text-gray-400 mb-12">
             What sets us apart in the AI and SaaS development space
           </p>
@@ -391,7 +391,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-5xl font-bold mb-4">Ready to Build the Future?</h2>
           <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
-            Let's discuss your project and see how Tecsaro Technologies can help you build innovative AI solutions and
+            Let's discuss your project and see how Tecsaro Digital can help you build innovative AI solutions and
             SaaS platforms.
           </p>
           <a

@@ -379,19 +379,19 @@ export default function BlogPage() {
         <title>Tecsaro Blog: AI, Chatbots, SaaS & Startup Growth Insights</title>
         <meta
           name="description"
-          content="Explore expert articles and guides on AI chatbots, SaaS development, MVPs, and startup growth strategies from Tecsaro Technologies."
+          content="Explore expert articles and guides on AI chatbots, SaaS development, MVPs, and startup growth strategies from Tecsaro Digital."
         />
         <meta
           name="keywords"
           content="AI blog, chatbot technology, SaaS development, startup growth, MVP, AI agents, customer support automation"
         />
-        <meta name="author" content="Tecsaro Technologies" />
+        <meta name="author" content="Tecsaro Digital" />
 
         {/* Open Graph / Facebook */}
         <meta property="og:title" content="Tecsaro Blog: AI, Chatbots, SaaS & Startup Growth Insights" />
         <meta
           property="og:description"
-          content="Explore expert articles and guides on AI chatbots, SaaS development, MVPs, and startup growth strategies from Tecsaro Technologies."
+          content="Explore expert articles and guides on AI chatbots, SaaS development, MVPs, and startup growth strategies from Tecsaro Digital."
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.tecsaro.com/blog" />
@@ -402,7 +402,7 @@ export default function BlogPage() {
         <meta name="twitter:title" content="Tecsaro Blog: AI, Chatbots, SaaS & Startup Growth Insights" />
         <meta
           name="twitter:description"
-          content="Explore expert articles and guides on AI chatbots, SaaS development, MVPs, and startup growth strategies from Tecsaro Technologies."
+          content="Explore expert articles and guides on AI chatbots, SaaS development, MVPs, and startup growth strategies from Tecsaro Digital."
         />
         <meta name="twitter:image" content="https://www.tecsaro.com/og-image-blog.jpg" />
       </Head>
